@@ -6,3 +6,4 @@ console.log(second);
 let answer = + prompt("Ведите число: ", "");
 console.log("a" + "Boob");
 console.log(answer+25);
+console.log(answer+33);
