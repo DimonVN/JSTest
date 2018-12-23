@@ -1,0 +1,9 @@
+address span {
+display: block;
+width:60%;
+float:right;
+}
+#test {
+	color:red;
+	font-size:150%;
+}
